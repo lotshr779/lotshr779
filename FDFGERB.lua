@@ -1,9 +1,9 @@
 --[[
 قناة السورس
 ----
-dev: @T3TTT
-dev2: @T3TTT
-ch: @T3TTT
+dev: @C10kl
+dev2: @C10kl
+ch: @C10kl
 --]]
 URL     = require("./libs/url")
 JSON    = require("./libs/dkjson")
